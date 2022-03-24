@@ -1,0 +1,1 @@
+La carpeta api contiene la ejecución de la base de datos, la base de datos debe ser actualizada a las credenciales que cada usuario tenga ya que corre en un puerto local, y en un servirdor local de PostgreSQL.
